@@ -1,0 +1,7 @@
+E:\informatika\c#\2. év\házi\domain\saját\csudh\csudh\bin\Debug\csudh.exe.config
+E:\informatika\c#\2. év\házi\domain\saját\csudh\csudh\bin\Debug\csudh.exe
+E:\informatika\c#\2. év\házi\domain\saját\csudh\csudh\bin\Debug\csudh.pdb
+E:\informatika\c#\2. év\házi\domain\saját\csudh\csudh\obj\Debug\csudh.csproj.AssemblyReference.cache
+E:\informatika\c#\2. év\házi\domain\saját\csudh\csudh\obj\Debug\csudh.csproj.CoreCompileInputs.cache
+E:\informatika\c#\2. év\házi\domain\saját\csudh\csudh\obj\Debug\csudh.exe
+E:\informatika\c#\2. év\házi\domain\saját\csudh\csudh\obj\Debug\csudh.pdb
